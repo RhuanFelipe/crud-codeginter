@@ -25,6 +25,7 @@ SET time_zone = "+00:00";
 --
 -- Estrutura da tabela `produtos`
 --
+CREATE DATABASE estudos;
 
 CREATE TABLE IF NOT EXISTS `produtos` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
